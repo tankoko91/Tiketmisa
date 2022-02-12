@@ -2,8 +2,8 @@
 
     //Database connection config
     $DBHost="localhost";
-    $DBUser="segogaring_TiketMisaNew";
-    $DBPass="Tiket@123";
+    $DBUser="root";
+    $DBPass="";
     $DBName="segogaring_TiketMisaNew";
 	
 	//Create connection
